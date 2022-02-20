@@ -1,0 +1,9 @@
+Cd 当前路径
+
+
+sinsy -w j -x dic -m SingVoice.htsvoice -o test.wav sinsy.xml
+
+
+
+
+sinsy -w j -x dic -m nitech_jp_song070_f001.htsvoice -o test.wav song070_f00001_063.xml 
